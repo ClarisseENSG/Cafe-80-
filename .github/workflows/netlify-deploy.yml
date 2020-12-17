@@ -4,9 +4,9 @@ jobs:
   publish:
     runs-on: ubuntu-latest
 
-    steps:
-    
+    steps:   
     - uses: actions/checkout@master
+    - run: sudo apt update && sudo apt install asciidoctor
     - run: make all
     - name: Publish
       uses: netlify/actions/cli@master
