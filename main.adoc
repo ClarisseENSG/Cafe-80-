@@ -9,3 +9,7 @@ Bienvenue au Café 80'! Un endroit chaleureux dans lequel partager votre Pepsi f
 Vous pourrez aussi profiter des jeux de votre enfance. Et non les jeux utilisant les mains ne sont pas pour les bébés !
 
 image::../img/biff.jpg[]
+
+Avant d'entrer essuyez vous les pieds sur le tapis !
+
+image::https://www.impericon.com/media/catalog/product/b/a/backtothefuture_80cafe_doormat_lg.jpg[]
