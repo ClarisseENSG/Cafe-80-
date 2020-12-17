@@ -1,1 +1,11 @@
-= Premier test de déploiement
+= Café 80'
+
+
+image::../img/22.gif[]
+
+
+Bienvenue au Café 80'! Un endroit chaleureux dans lequel partager votre Pepsi favori entre amis.
+
+Vous pourrez aussi profiter des jeux de votre enfance. Et non les jeux utilisant les mains ne sont pas pour les bébés !
+
+image::../img/biff.jpg[]
